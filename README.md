@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/google-cloud-vertex-ai-prompt-design)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/google-cloud-vertex-ai-prompt-design)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/google-cloud-vertex-ai-prompt-design)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/google-cloud-vertex-ai-prompt-design)
+![GitHub License](https://img.shields.io/github/license/bshongwe/google-cloud-vertex-ai-prompt-design)
+
 # Generative AI with Vertex AI: Prompt Design
 
 ## Overview
